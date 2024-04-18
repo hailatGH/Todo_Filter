@@ -1,0 +1,7 @@
+Here below are the steps I will be following inorder to complete the task
+
+step1: create a function to fech data from the url provided
+step2: create a function to process data
+step3: create a function to display result
+step4: create a function to check type
+step5: refine the code
