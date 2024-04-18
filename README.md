@@ -9,7 +9,7 @@ This Python script showcases various functionalities essential for working with 
 
 ## Requirements
 
-* Python 3.x (https://www.python.org/downloads/(https://www.python.org/downloads/))
+* Python 3.x (https://www.python.org/downloads/)
 * `requests` library: `pip install requests`
 
 ## Instructions
